@@ -17,14 +17,16 @@ To set up the project locally you need to install the latest version of mingw(C+
 - BankingTransactionWindow: Responsible for displaying UI for handling user interactions.
 
 ## Usage Guide
-1. Deposit Money:
+### 1. Deposit Money:
    - Enter an amount either by typing it in or using the spinbox
    - Click on the deposit button and the current balance will update automatically
-2. Withdraw Money:
+     
+### 2. Withdraw Money:
    - Enter an amount either by typing it in or using the spinbox
    - Click on the withdrawal button and if your balance is greater than your withdrawal, the balance with update
    - If funds are inefficient then you will receive a warning message
-3. Save Transactions to File:
+     
+### 3. Save Transactions to File:
    - Click on the "To file" button
    - A text file with the name "Transactions_YYYYMMDD.txt" will be created
 
