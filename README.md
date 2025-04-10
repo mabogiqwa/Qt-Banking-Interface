@@ -1,4 +1,4 @@
-# Project Title and Description
+# Simple Transaction Manager
 This is a simple desktop application that was built using Qt Creator and it can be utilized to manage banking transactions such as deposits and withdrawals. It also has the capability to save transaction history into a text file.
 
 ## Installation Instructions
